@@ -6,7 +6,7 @@ public class FirstProgram {
 
 	public static void main(String[] args) {
 
-		// int a[]= new int[5];
+		// int a[]= new int[5];krishn
 		int a[] = { 5, 20, 15, 10, 25 };
 		int sum = 0;
 		boolean flag=false;
